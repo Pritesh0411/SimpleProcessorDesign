@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/Xilinx/LogicDesignProject/Overall_F.xst" -ofn "E:/Xilinx/LogicDesignProject/Overall_F.syr" 

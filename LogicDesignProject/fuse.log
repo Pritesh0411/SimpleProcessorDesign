@@ -1,0 +1,29 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o E:/Xilinx/LogicDesignProject/TbH_isim_beh.exe -prj E:/Xilinx/LogicDesignProject/TbH_beh.prj work.TbH 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/Xilinx/LogicDesignProject/ALUsub.vhd" into library work
+Parsing VHDL file "E:/Xilinx/LogicDesignProject/Rgstr.vhd" into library work
+Parsing VHDL file "E:/Xilinx/LogicDesignProject/Decoder_H.vhd" into library work
+Parsing VHDL file "E:/Xilinx/LogicDesignProject/ALU.vhd" into library work
+Parsing VHDL file "E:/Xilinx/LogicDesignProject/Overall_H.vhd" into library work
+Parsing VHDL file "E:/Xilinx/LogicDesignProject/TbH.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity Rgstr [rgstr_default]
+Compiling architecture behavioral of entity Decoder_H [decoder_h_default]
+Compiling architecture behavioral of entity ALUsub [alusub_default]
+Compiling architecture behavioral of entity ALU [alu_default]
+Compiling architecture behavioral of entity Overall_H [overall_h_default]
+Compiling architecture behavior of entity tbh
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 15 VHDL Units
+Built simulation executable E:/Xilinx/LogicDesignProject/TbH_isim_beh.exe
+Fuse Memory Usage: 34788 KB
+Fuse CPU Usage: 968 ms

@@ -1,0 +1,6 @@
+vhdl isim_temp "ALUsub.vhd"
+vhdl isim_temp "Rgstr.vhd"
+vhdl isim_temp "Decoder_A.vhd"
+vhdl isim_temp "ALU.vhd"
+vhdl isim_temp "Overall_A.vhd"
+vhdl isim_temp "TbA.vhd"

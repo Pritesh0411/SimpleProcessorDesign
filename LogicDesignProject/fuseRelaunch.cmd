@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/Xilinx/LogicDesignProject/TbH_isim_beh.exe" -prj "E:/Xilinx/LogicDesignProject/TbH_beh.prj" "work.TbH" 

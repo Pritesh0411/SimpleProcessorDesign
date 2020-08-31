@@ -1,0 +1,38 @@
+V3 26
+FL E:/Xilinx/LogicDesignProject/ALU.vhd 2020/06/08.15:25:35 P.20131013
+EN work/ALU 1591610543 FL E:/Xilinx/LogicDesignProject/ALU.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ALU/Behavioral 1591610544 \
+      FL E:/Xilinx/LogicDesignProject/ALU.vhd EN work/ALU 1591610543 CP ALUsub
+FL E:/Xilinx/LogicDesignProject/ALUsub.vhd 2020/06/08.15:25:22 P.20131013
+EN work/ALUsub 1591610537 FL E:/Xilinx/LogicDesignProject/ALUsub.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ALUsub/Behavioral 1591610538 \
+      FL E:/Xilinx/LogicDesignProject/ALUsub.vhd EN work/ALUsub 1591610537
+FL E:/Xilinx/LogicDesignProject/Decoder_A.vhd 2020/06/08.15:24:57 P.20131013
+EN work/Decoder_A 1591610212 FL E:/Xilinx/LogicDesignProject/Decoder_A.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Decoder_A/Behavioral 1591610213 \
+      FL E:/Xilinx/LogicDesignProject/Decoder_A.vhd EN work/Decoder_A 1591610212
+FL E:/Xilinx/LogicDesignProject/Decoder_B.vhd 2020/06/08.15:30:49 P.20131013
+EN work/Decoder_B 1591610541 FL E:/Xilinx/LogicDesignProject/Decoder_B.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Decoder_B/Behavioral 1591610542 \
+      FL E:/Xilinx/LogicDesignProject/Decoder_B.vhd EN work/Decoder_B 1591610541
+FL E:/Xilinx/LogicDesignProject/Overall_A.vhd 2020/06/08.15:26:26 P.20131013
+EN work/Overall_A 1591610216 FL E:/Xilinx/LogicDesignProject/Overall_A.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Overall_A/Behavioral 1591610217 \
+      FL E:/Xilinx/LogicDesignProject/Overall_A.vhd EN work/Overall_A 1591610216 \
+      CP Rgstr CP Decoder_A CP ALU
+FL E:/Xilinx/LogicDesignProject/Overall_B.vhd 2020/06/08.15:31:53 P.20131013
+EN work/Overall_B 1591610545 FL E:/Xilinx/LogicDesignProject/Overall_B.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Overall_B/Behavioral 1591610546 \
+      FL E:/Xilinx/LogicDesignProject/Overall_B.vhd EN work/Overall_B 1591610545 \
+      CP Rgstr CP Decoder_B CP ALU
+FL E:/Xilinx/LogicDesignProject/Rgstr.vhd 2020/06/08.15:26:01 P.20131013
+EN work/Rgstr 1591610539 FL E:/Xilinx/LogicDesignProject/Rgstr.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Rgstr/Behavioral 1591610540 \
+      FL E:/Xilinx/LogicDesignProject/Rgstr.vhd EN work/Rgstr 1591610539

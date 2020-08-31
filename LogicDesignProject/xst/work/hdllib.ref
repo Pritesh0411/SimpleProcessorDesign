@@ -1,0 +1,14 @@
+AR alusub behavioral E:/Xilinx/LogicDesignProject/ALUsub.vhd sub00/vhpl01 1591610538
+AR rgstr behavioral E:/Xilinx/LogicDesignProject/Rgstr.vhd sub00/vhpl03 1591610540
+AR decoder_a behavioral E:/Xilinx/LogicDesignProject/Decoder_A.vhd sub00/vhpl05 1591610213
+EN overall_a NULL E:/Xilinx/LogicDesignProject/Overall_A.vhd sub00/vhpl08 1591610216
+EN overall_b NULL E:/Xilinx/LogicDesignProject/Overall_B.vhd sub00/vhpl12 1591610545
+AR overall_a behavioral E:/Xilinx/LogicDesignProject/Overall_A.vhd sub00/vhpl09 1591610217
+EN rgstr NULL E:/Xilinx/LogicDesignProject/Rgstr.vhd sub00/vhpl02 1591610539
+EN alusub NULL E:/Xilinx/LogicDesignProject/ALUsub.vhd sub00/vhpl00 1591610537
+EN decoder_a NULL E:/Xilinx/LogicDesignProject/Decoder_A.vhd sub00/vhpl04 1591610212
+EN decoder_b NULL E:/Xilinx/LogicDesignProject/Decoder_B.vhd sub00/vhpl10 1591610541
+AR decoder_b behavioral E:/Xilinx/LogicDesignProject/Decoder_B.vhd sub00/vhpl11 1591610542
+AR overall_b behavioral E:/Xilinx/LogicDesignProject/Overall_B.vhd sub00/vhpl13 1591610546
+AR alu behavioral E:/Xilinx/LogicDesignProject/ALU.vhd sub00/vhpl07 1591610544
+EN alu NULL E:/Xilinx/LogicDesignProject/ALU.vhd sub00/vhpl06 1591610543

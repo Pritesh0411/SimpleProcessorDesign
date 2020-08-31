@@ -1,0 +1,5 @@
+vhdl work "E:\Xilinx\LogicDesignProject\ALUsub.vhd"
+vhdl work "E:\Xilinx\LogicDesignProject\Rgstr.vhd"
+vhdl work "E:\Xilinx\LogicDesignProject\Decoder_B.vhd"
+vhdl work "E:\Xilinx\LogicDesignProject\ALU.vhd"
+vhdl work "E:\Xilinx\LogicDesignProject\Overall_B.vhd"

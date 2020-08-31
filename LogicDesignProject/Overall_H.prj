@@ -1,0 +1,5 @@
+vhdl work "ALUsub.vhd"
+vhdl work "Rgstr.vhd"
+vhdl work "Decoder_H.vhd"
+vhdl work "ALU.vhd"
+vhdl work "Overall_H.vhd"

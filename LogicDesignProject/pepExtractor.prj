@@ -1,0 +1,5 @@
+work	"ALU.vhd"
+work	"ALUsub.vhd"
+work	"Decoder_H.vhd"
+work	"Overall_H.vhd"
+work	"Rgstr.vhd"
